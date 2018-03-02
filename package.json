@@ -1,0 +1,26 @@
+{
+  "name": "demo-chai",
+  "version": "1.0.0",
+  "description": "demo chia 2 so",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "lodash": "^4.17.4",
+    "yarn": "^0.22.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha -S"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "Linh",
+  "license": "MIT"
+}
